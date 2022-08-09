@@ -1,2 +1,2 @@
-# curso-bootstrap
-Utilizando Bootstrap
+# Projeto Bootstrap
+* Utilizando Bootstrap
